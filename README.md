@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome! 🚀</h1>  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F4CDB&center=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+Styled+Components;Passionate+about+UX+%26+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F4CDB&center=true&width=435&lines=React+%2B+TypeScript+Developer;Next.js+%7C+Supabase+%7C+Frontend+Engineer;Building+Fast+and+Elegant+Web+Apps" />
 </div>
 
 ---
@@ -9,10 +9,10 @@
 <div align="center">
   
 ## 🧑‍💻 About Me  
-👋 안녕하세요! 프론트엔드 개발자입니다.  
-💡 React와 Next.js를 활용해 **더 빠르고 직관적인 웹**을 만들고 있어요.  
-🎨 UI/UX 디자인과 성능 최적화에 관심이 많습니다.  
-🚀 새로운 기술을 배우고 적용하는 걸 즐깁니다.  
+안녕하세요! 개발하는 걸 즐기는 프론트엔드 개발자입니다.  
+**React + TypeScript**를 기반으로, **빠르고 직관적인 UI**를 만들고 있어요.  
+Next.js와 Supabase를 활용해 다양한 프로젝트를 경험해봤습니다.  
+새로운 기술을 배우고 **더 나은 사용자 경험을 만드는 것**이 가장 즐거운 순간입니다.  
 
 </div>
 
@@ -23,7 +23,9 @@
 ## 🚀 Tech Stack & Tools  
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
