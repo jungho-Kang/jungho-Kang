@@ -18,5 +18,5 @@ UI/UX 디자인과 성능 최적화에 관심이 많으며, 새로운 기술을 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungho-Kang&show_icons=true&theme=radical)  
 
 📬 **Contact**  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:이메일)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:rkdwjdgh08@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/사용자명)  
