@@ -26,7 +26,6 @@ Next.js와 Supabase를 활용해 다양한 프로젝트를 경험해봤습니다
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
 ### 🔥 State Management  
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=react&logoColor=white" />
@@ -36,11 +35,12 @@ Next.js와 Supabase를 활용해 다양한 프로젝트를 경험해봤습니다
 ### 💾 Backend & Database  
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 
-### 🎨 Tools & Design  
+### 🛠 Tools  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 </div>
+
 
 
 
