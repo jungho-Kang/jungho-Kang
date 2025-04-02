@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome! 🚀</h1>  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F4CDB&center=true&width=435&lines=React+%2B+TypeScript+Developer;Next.js+%7C+Supabase+%7C+Frontend+Engineer;Building+Fast+and+Elegant+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6F4CDB&center=true&width=600&lines=React+%2B+TypeScript+Developer;Next.js+%7C+Supabase+%7C+Frontend+Engineer;Building+Fast+and+Elegant+Web+Apps" style="max-width: 100%;"/>
 </div>
 
 ---
